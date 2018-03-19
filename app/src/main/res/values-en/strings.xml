@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Riddler\'s Quiz</string>
+    <string name="textView">SELECT LANGUAGE</string>
+    <string name="english">ENGLISH</string>
+    <string name="italiano">ITALIAN</string>
+    <string name="select_language">SELECT LANGUAGE</string>
+    <string name="all_the_questions_will_be_in_english">*All the questions are in english</string>
+    <string name="test">Test</string>
+    <string name="questions">Questions:</string>
+    <string name="category">Category:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="type">Type:</string>
+    <string name="go">GO!</string>
+    <string name="settings">SETTINGS</string>
+    <string name="results">RESULTS</string>
+    <string name="correct_answers">Correct answers:</string>
+    <string name="wrong_answers">Wrong answers:</string>
+    <string name="time_left">Time left:</string>
+    <string name="points">Points:</string>
+    <string name="difficulty_bonus">Difficulty bonus:</string>
+    <string name="back_to_settings">BACK TO SETTINGS</string>
+    <string name="the_current_high_score_is">The current high score is</string>
+    <string name="try_to_beat_it_in">Try to beat it in...</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Il Quiz dell\' Enigmista</string>
+    <string name="english">INGLESE</string>
+    <string name="italiano">ITALIANO</string>
+    <string name="select_language">SELEZIONA LA LINGUA</string>
+    <string name="textView">SELEZIONA LINGUAGGIO</string>
+    <string name="all_the_questions_will_be_in_english">*Tutte le domande sono in inglese</string>
+    <string name="test">Prova</string>
+    <string name="questions">Domande:</string>
+    <string name="category">Categoria:</string>
+    <string name="difficulty">Difficoltà:</string>
+    <string name="type">Tipo:</string>
+    <string name="go">VIA!</string>
+    <string name="settings">IMPOSTAZIONI</string>
+    <string name="results">RISULTATI</string>
+    <string name="correct_answers">Risposte corrette:</string>
+    <string name="wrong_answers">Risposte sbagliate:</string>
+    <string name="time_left">Tempo rimasto:</string>
+    <string name="points">Punti:</string>
+    <string name="difficulty_bonus">Bonus difficoltà:</string>
+    <string name="back_to_settings">TORNA ALLE IMPOSTAZIONI</string>
+    <string name="the_current_high_score_is">Il record attuale è</string>
+    <string name="try_to_beat_it_in">Prova a batterlo in...</string>
+</resources>
